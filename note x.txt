@@ -1,0 +1,26 @@
+----------------------------
+xxl 1440
+xl 1200
+lg 1024
+
+md 768
+
+sm 576
+col 
+
+header------------------------
+
+             xxl/xl/lg*       md*          sm/col*
+fonts size
+spacing
+alignment
+order
+
+
+jquery
+
+file connect
+template
+    $(document).ready(function(){
+        
+    })
